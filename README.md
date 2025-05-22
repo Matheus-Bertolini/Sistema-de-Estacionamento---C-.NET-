@@ -29,7 +29,7 @@ Este projeto é parte de um desafio prático proposto pela plataforma [DIO](http
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/DesafioEstacionamento.git
+git clone https://github.com/Seu-Usuario/Sistema-de-Estacionamento---C-.NET-.git
 ```
 
 2. Navegue até a pasta do projeto:
